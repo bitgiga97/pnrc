@@ -22020,3 +22020,23 @@ screen and (-ms-high-contrast: active) {
         overflow: auto !important;
     }
 }
+
+.logo1 {
+    background-image: url(/pnrc/experience.png);
+    background-size: 152px 211px;
+}
+
+.logo2 {
+    background-image: url(/pnrc/holistic.png);
+    background-size: 152px 211px;
+}
+
+.logo3 {
+    background-image: url(/pnrc/confident.png);
+    background-size: 152px 211px;
+}
+
+.logo4 {
+    background-image: url(/pnrc/multiple.png);
+    background-size: 152px 211px;
+}
